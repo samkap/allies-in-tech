@@ -7,3 +7,6 @@ Start to collect all resources for technical and non-technical allies who work i
 
 **How to contribute**
 A good ol' pull request to the repo to create or add to [Markdown files](https://guides.github.com/features/mastering-markdown/). Open to creating folders for different topics and roles.
+
+**Credit**
+If you feel comfortable adding your name next to a link/resource as a contributor, please do!
