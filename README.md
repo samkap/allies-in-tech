@@ -1,4 +1,4 @@
-# allies-in-tech
+# Resources for Allies in Tech
 
 Hey interwebs! What are your go-to resources for allies in tech? I have a few articles, but wouldn't mind more, videos, conf talks etc #ally
 
